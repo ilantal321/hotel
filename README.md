@@ -9,6 +9,11 @@ On the front-end, users can use the hotel website to see the hotel gallery and g
 
 [I.T Hotel](https://ilantal321.github.io/hotel/index.html "I.T Hotel")
 
+
+<h4>Website file:</h4>
+
+[I.T Hotel file](https://github.com/ilantal321/hotel/blob/main/pro1.zip "I.T Hotel zip file")
+
 <h4>Users information:</h4>
 
 <h5>Worker:</h5>
