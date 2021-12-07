@@ -26,12 +26,39 @@ On the front-end, users can use the hotel website to see the hotel gallery and g
 - Username: ilan.tal@gmail.com
 - password: aaaaaaaa
 
-## Built With
+## ScreenShots:
+
+<h3>Login page:</h3>
+
+<p>
+  Workers and manager can enter their email and password to login. 
+</p>
+
+![Login Page](https://github.com/ilantal321/videos/blob/main/login.PNG "Login Page")
+
+<h3>Manager page:</h3>
+
+<p>
+  Manager is able to add/update/delete his workers. 
+</p>
+
+![>Manager Page](https://github.com/ilantal321/videos/blob/main/ManagerPage.PNG ">Manager Page")
+
+<h3>Workers pages:</h3>
+
+<p>
+  Worker can check-in/check-out guests, add/delete/update guests and examine witch roooms are empty or full.   
+</p>
+
+
+![caption](https://github.com/ilantal321/videos/blob/main/I.T%20hotel-%20guests%20out%20-%20Google%20Chrome%202021-12-07%2018-09-31.gif)
+
+## Built With:
 - Visual Studio Code
 - XAMPP
 - MySQL
 
-## Author
+## Author:
 **Ilan Tal**
 
 - [Profile](https://github.com/ilantal321 "Ilan Tal")
